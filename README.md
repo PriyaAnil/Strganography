@@ -39,7 +39,7 @@ Decode secret file data
 Print secret information to user or store the information to new text file
 Stop
 
-USAGE: ./a.out steg_main.c encode.c decode.c
-
+USAGE: gcc steg_main.c encode.c decode.c
+        ./a.out
 
 
